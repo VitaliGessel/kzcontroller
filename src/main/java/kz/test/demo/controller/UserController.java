@@ -74,7 +74,7 @@ public class UserController {
 
 
             @ApiParam(
-                    value = "Id компании сотрудника",
+                    value = "Id компании сотрудника new",
                     name = "company_id",
                     required = true,
                     example = "1"
